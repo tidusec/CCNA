@@ -1,0 +1,1 @@
+These are my notes on the CISCO CCNA (200-301) course by David Bombal. I will probably add my own notes on other research I do while watching the course.
